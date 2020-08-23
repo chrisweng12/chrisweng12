@@ -3,7 +3,7 @@
 I'm Wei-Cheng Chris Weng, a linguist from NCTU Linguistics program. I am intereted in programming and have made a few small side projects, welcome to have a look in my repo. :eyes:<br>
 Recently, I have finished my thesis **Loss of final stop place contrasts among Mandarin-Min bilingual speakers in Taiwan**<br> 
 Click `Paper` to have a look. <br>
-[Paper:page_facing_up:](https://drive.google.com/file/d/18EkLs3gQPgywdR6CMyAyZ-6jlfong8AF/view?usp=sharing)<br>
+[:page_facing_up:Paper](https://drive.google.com/file/d/18EkLs3gQPgywdR6CMyAyZ-6jlfong8AF/view?usp=sharing)<br>
 
 ## In short
 - 🔭 I’m currently working on my programming skills 
