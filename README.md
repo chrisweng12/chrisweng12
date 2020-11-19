@@ -7,7 +7,7 @@ Click `Paper` to have a look. <br>
 
 ## In short
 - 🔭 I’m currently working on my programming skills 
-- 🌱 I’m currently learning MongoDB and SQL
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate with other programmers to build projects
 - 📫 How to reach me:`chris86112299@gmail.com`
 - 😄 Pronouns: he/him
